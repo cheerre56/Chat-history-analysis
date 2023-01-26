@@ -11,3 +11,4 @@
 
 運行main.py 會將資料統整 導出 all_user.txt
 
+![image](https://user-images.githubusercontent.com/50831121/214760947-e781d1fe-8f05-4086-9094-1089dabd6880.png)
